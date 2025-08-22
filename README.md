@@ -1,1 +1,3 @@
 # CS-370-Current-and-Emerging-Trends-in-Computer-Science
+
+I was given the TreasureMaze and GameExperience classes along with a basic structure for the qtrain function. I created the full training loop that selects actions using an epsilon-greedy strategy, stores episodes in memory, trains the model on collected data, evaluates loss, and updates the agent’s win rate. The code allows an AI agent to learn how to navigate the maze efficiently by repeatedly interacting with the environment and improving its decisions based on experience. It demonstrates how reinforcement learning can be implemented in practice, showing the process of exploration, exploitation, and model improvement over time.
